@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 00a395322d95dc741863614e17f1e63f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - whatYouHave: {instanceID: 0}
+  - whatGlassHave: {instanceID: 0}
+  - IcePrefab: {fileID: 8855770762803648236, guid: d237967bd08253141a25547487412399,
+      type: 3}
+  - LemonPrefab: {fileID: 3178466039888540010, guid: 7dcbe1c3c14eef34799b59121d9b95f6,
+      type: 3}
+  - OrangeJuicePrefab: {fileID: 5639394790949045069, guid: 98359bfeb17c41f4ea27f6afa801240c,
+      type: 3}
+  - StrawberryJuicePrefab: {fileID: 8593281353961121163, guid: 76fe03ffe8512db4b90e92c23ba444c7,
+      type: 3}
+  - GlassPrefab: {fileID: 1741245669528523687, guid: 036e492c7f0f9bf48831f833cb39713c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
